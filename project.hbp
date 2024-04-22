@@ -1,0 +1,15 @@
+# ___________SYNTAX FOR THIS FILE__________
+#
+# *.hbp project file. Can contain any number of command-line options,
+# which are expected to create an output. Lines beginning with '#' character are ignored,
+# otherwise newline is optional and options are space separated, just like on the command-line.
+# You must enclose option containing space in double quotes.
+# Each .hbp file reference will be executed as a sub-project.
+#
+# See https://github.com/harbour/core/blob/master/utils/hbmk2/doc/hbmk2.en.md
+
+#Some commands, flags, arguments, options:
+-info
+
+#Files to include
+*.prg
