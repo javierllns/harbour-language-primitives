@@ -8,6 +8,17 @@
 #
 # See https://github.com/harbour/core/blob/master/utils/hbmk2/doc/hbmk2.en.md
 
+# ___________HOW_TO_RUN____________________
+#
+# To compile run:
+#
+#    hbmk2 project.hbp
+#
+# To run without compile:
+#
+#    hbrun ./*.prg
+#
+
 #Some commands, flags, arguments, options:
 -info
 
